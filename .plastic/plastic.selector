@@ -1,0 +1,4 @@
+repository "Milgram_Test@Jewel_Thieves@cloud"
+  path "/"
+    br "/main"
+    co "/main"
